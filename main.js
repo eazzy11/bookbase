@@ -1,6 +1,6 @@
 jQuery(window).on('load', function(){
     var $ = jQuery;
-	
+	function text() {}
 	var modal_view_success = 0;
 	var modal_dialog_login = 0;
 	var modal_dialog_users = 0;
